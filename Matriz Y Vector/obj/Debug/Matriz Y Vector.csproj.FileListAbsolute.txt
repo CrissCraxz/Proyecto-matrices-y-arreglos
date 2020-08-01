@@ -1,0 +1,15 @@
+C:\Users\cris_\Documents\3ro\Proyecto Intentrgador\Proyecto Matrices\Matriz Y Vector\bin\Debug\Matriz Y Vector.exe.config
+C:\Users\cris_\Documents\3ro\Proyecto Intentrgador\Proyecto Matrices\Matriz Y Vector\bin\Debug\Matriz Y Vector.exe
+C:\Users\cris_\Documents\3ro\Proyecto Intentrgador\Proyecto Matrices\Matriz Y Vector\bin\Debug\Matriz Y Vector.pdb
+C:\Users\cris_\Documents\3ro\Proyecto Intentrgador\Proyecto Matrices\Matriz Y Vector\obj\Debug\Matriz Y Vector.csprojAssemblyReference.cache
+C:\Users\cris_\Documents\3ro\Proyecto Intentrgador\Proyecto Matrices\Matriz Y Vector\obj\Debug\Matriz_Y_Vector.Principal_Programa.resources
+C:\Users\cris_\Documents\3ro\Proyecto Intentrgador\Proyecto Matrices\Matriz Y Vector\obj\Debug\Matriz_Y_Vector.Properties.Resources.resources
+C:\Users\cris_\Documents\3ro\Proyecto Intentrgador\Proyecto Matrices\Matriz Y Vector\obj\Debug\Matriz Y Vector.csproj.GenerateResource.cache
+C:\Users\cris_\Documents\3ro\Proyecto Intentrgador\Proyecto Matrices\Matriz Y Vector\obj\Debug\Matriz Y Vector.csproj.CoreCompileInputs.cache
+C:\Users\cris_\Documents\3ro\Proyecto Intentrgador\Proyecto Matrices\Matriz Y Vector\obj\Debug\Matriz Y Vector.exe
+C:\Users\cris_\Documents\3ro\Proyecto Intentrgador\Proyecto Matrices\Matriz Y Vector\obj\Debug\Matriz Y Vector.pdb
+C:\Users\cris_\Documents\3ro\Proyecto Intentrgador\Proyecto Matrices\Matriz Y Vector\obj\Debug\Matriz_Y_Vector.M_Cuadratica.resources
+C:\Users\cris_\Documents\3ro\Proyecto Intentrgador\Proyecto Matrices\Matriz Y Vector\obj\Debug\Matriz_Y_Vector.Opcion_Matrices.resources
+C:\Users\cris_\Documents\3ro\Proyecto Intentrgador\Proyecto Matrices\Matriz Y Vector\obj\Debug\Matriz_Y_Vector.Mayor_Matriz_Normal.resources
+C:\Users\cris_\Documents\3ro\Proyecto Intentrgador\Proyecto Matrices\Matriz Y Vector\obj\Debug\Matriz_Y_Vector.M_No_Cuadratica.resources
+C:\Users\cris_\Documents\3ro\Proyecto Intentrgador\Proyecto Matrices\Matriz Y Vector\obj\Debug\Matriz_Y_Vector.Ingresar_Valores.resources
